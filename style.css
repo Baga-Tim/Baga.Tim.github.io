@@ -29,8 +29,8 @@ body {
   <h1 style="color:blue;">A Blue Heading</h1>
   <p style="color:red;">A red paragraph.</p>
   /* Add the styles here */
-  text-weight:border;
-  text-decoration:underlign;
+  text-weight:bolder;
+  text-decoration:underlin;
 }
 
 .topdiv {
